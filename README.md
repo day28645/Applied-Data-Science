@@ -81,16 +81,19 @@ Pair Plot
 Python
 Pandas, NumPy
 Matplotlib, Seaborn
+
 🤖 Machine Learning
 K-Nearest Neighbors (KNN)
 K-Means Clustering
 Decision Tree
 Random Forest
 Logistic Regression
+
 🧠 Data Processing
 Data Preprocessing
 Feature Engineering
 Principal Component Analysis (PCA)
+
 📊 Data Analysis & Visualization
 EDA (Exploratory Data Analysis)
 Correlation Matrix
